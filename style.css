@@ -6,6 +6,6 @@ h1 {font-family: 'Fjalla One', sans-serif; color:#DA020E	; text-align: center}
 h2 {font-family: 'Fjalla One', sans-serif; color:#F4A614	; text-align: center}
 
 
-body{font-family: 'Fjalla One', sans-serif; color:white;  background: #131313 }
+body{font-family: 'Fjalla One', sans-serif; color:white;  background: #131313  url("background.jpg") no-repeat fixed center}
 th{color: #DA020E }
 .imp33{color: #F3CA07}
